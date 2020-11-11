@@ -3,4 +3,4 @@ This is a Python class I wrote that simulates interactions one might have when p
 This project was done as part of a Data Structures in Python course at Montclair State University, as part of my MS in Data Science (completed Summer 2020).
 
 Please find Card_Hand_Class.pdf file for full documentation.
-The positional list and doubly linked base code is provided by the textbook, "Data Structures and Algorithms in Python by Michael T. Goodrich Roberto Tamassia Michael H. Goldwasser."
+All imported code is provided by the textbook, "Data Structures and Algorithms in Python by Michael T. Goodrich Roberto Tamassia Michael H. Goldwasser."
